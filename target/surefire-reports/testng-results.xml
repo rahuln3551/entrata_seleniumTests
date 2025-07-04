@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-04T16:18:34 IST" name="Suite" finished-at="2025-07-04T16:21:11 IST" duration-ms="157882">
+    <groups>
+    </groups>
+    <test started-at="2025-07-04T16:18:34 IST" name="Test" finished-at="2025-07-04T16:21:11 IST" duration-ms="157882">
+      <class name="testCases.TC03_Navigate_To_BillPay_Section">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC03_Navigate_To_BillPay_Section@7516e4e5]" started-at="2025-07-04T16:20:21 IST" name="setUp" finished-at="2025-07-04T16:20:23 IST" duration-ms="2122" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkPresenceOfBillPaySection()[pri:0, instance:testCases.TC03_Navigate_To_BillPay_Section@7516e4e5]" started-at="2025-07-04T16:20:23 IST" name="checkPresenceOfBillPaySection" finished-at="2025-07-04T16:21:11 IST" duration-ms="47711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPresenceOfBillPaySection -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC03_Navigate_To_BillPay_Section@7516e4e5]" started-at="2025-07-04T16:21:11 IST" name="tearDown" finished-at="2025-07-04T16:21:11 IST" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC03_Navigate_To_BillPay_Section -->
+      <class name="testCases.TC01_HomePage_Load_Test">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC01_HomePage_Load_Test@3e10dc6]" started-at="2025-07-04T16:18:34 IST" name="setUp" finished-at="2025-07-04T16:18:41 IST" duration-ms="7198" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkPresenceOfHomepage()[pri:0, instance:testCases.TC01_HomePage_Load_Test@3e10dc6]" started-at="2025-07-04T16:18:41 IST" name="checkPresenceOfHomepage" finished-at="2025-07-04T16:19:07 IST" duration-ms="26078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPresenceOfHomepage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC01_HomePage_Load_Test@3e10dc6]" started-at="2025-07-04T16:19:07 IST" name="tearDown" finished-at="2025-07-04T16:19:08 IST" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC01_HomePage_Load_Test -->
+      <class name="testCases.TC04_Validate_FooterSection_BrokenLinks">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC04_Validate_FooterSection_BrokenLinks@5bc9ba1d]" started-at="2025-07-04T16:19:08 IST" name="setUp" finished-at="2025-07-04T16:19:10 IST" duration-ms="2337" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testBrokenLinksInFooterSection()[pri:0, instance:testCases.TC04_Validate_FooterSection_BrokenLinks@5bc9ba1d]" started-at="2025-07-04T16:19:10 IST" name="testBrokenLinksInFooterSection" finished-at="2025-07-04T16:19:44 IST" duration-ms="34120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBrokenLinksInFooterSection -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC04_Validate_FooterSection_BrokenLinks@5bc9ba1d]" started-at="2025-07-04T16:19:44 IST" name="tearDown" finished-at="2025-07-04T16:19:45 IST" duration-ms="424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC04_Validate_FooterSection_BrokenLinks -->
+      <class name="testCases.TC02_Schedule_Demo_Form_Test">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_Schedule_Demo_Form_Test@1021f6c9]" started-at="2025-07-04T16:19:45 IST" name="setUp" finished-at="2025-07-04T16:19:47 IST" duration-ms="1975" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testScheduleDemoForm()[pri:0, instance:testCases.TC02_Schedule_Demo_Form_Test@1021f6c9]" started-at="2025-07-04T16:19:47 IST" name="testScheduleDemoForm" finished-at="2025-07-04T16:20:20 IST" duration-ms="33886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScheduleDemoForm -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC02_Schedule_Demo_Form_Test@1021f6c9]" started-at="2025-07-04T16:20:20 IST" name="tearDown" finished-at="2025-07-04T16:20:21 IST" duration-ms="633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC02_Schedule_Demo_Form_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

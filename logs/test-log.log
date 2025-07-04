@@ -1,0 +1,358 @@
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\AppData\Local\Temp\testng-eclipse--1310736100\testng-customsuite.xml
+
+2025-07-03 22:34:10 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2025-07-03 22:34:11 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7561db12: 230 ms
+2025-07-03 22:34:11 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4b770e40: 26 ms
+2025-07-03 22:34:11 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3a71c100: 23 ms
+2025-07-03 22:34:11 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7b02e036: 28 ms
+2025-07-03 22:34:11 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@420bc288: 19 ms
+2025-07-03 22:34:11 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@df5f5c0: 0 ms
+2025-07-03 22:38:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Users\rahul\Downloads\EclipseJavaWS\Entrata_Framework\testng.xml
+
+2025-07-03 22:40:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Users\rahul\Downloads\EclipseJavaWS\Entrata_Framework\testng.xml
+
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\AppData\Local\Temp\testng-eclipse-1303725145\testng-customsuite.xml
+
+2025-07-03 22:42:07 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2025-07-03 22:42:08 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7561db12: 180 ms
+2025-07-03 22:42:08 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4b770e40: 52 ms
+2025-07-03 22:42:08 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3a71c100: 34 ms
+2025-07-03 22:42:08 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7b02e036: 22 ms
+2025-07-03 22:42:08 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@df5f5c0: 26 ms
+2025-07-03 22:42:08 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@308a6984: 1 ms
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\AppData\Local\Temp\testng-eclipse-1797788705\testng-customsuite.xml
+
+2025-07-03 22:42:43 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2025-07-03 22:42:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2c282004: 185 ms
+2025-07-03 22:42:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@11ee02f8: 43 ms
+2025-07-03 22:42:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2e6ee0bc: 130 ms
+2025-07-03 22:42:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@65ef722a: 56 ms
+2025-07-03 22:42:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6548bb7d: 16 ms
+2025-07-03 22:42:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@e27ba81: 0 ms
+2025-07-03 22:42:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Users\rahul\Downloads\EclipseJavaWS\Entrata_Framework\testng.xml
+
+2025-07-03 22:43:08 [main] INFO  testCases.TC01_HomePage_Load_Test - WebDriver initialized for: chrome
+2025-07-03 22:43:33 [main] INFO  testCases.TC01_HomePage_Load_Test - Navigated to application URL: https://www.entrata.com/
+2025-07-03 22:43:34 [main] INFO  testCases.TC01_HomePage_Load_Test - Verifying if the homepage is displayed
+2025-07-03 22:43:34 [main] INFO  testCases.TC01_HomePage_Load_Test - WebDriver quit and removed from ThreadLocal.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\AppData\Local\Temp\testng-eclipse-681427925\testng-customsuite.xml
+
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2c282004: 151 ms
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@11ee02f8: 27 ms
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2e6ee0bc: 20 ms
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@65ef722a: 18 ms
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6548bb7d: 25 ms
+2025-07-04 01:07:16 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@e27ba81: 0 ms
+2025-07-04 01:09:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Users\rahul\Downloads\EclipseJavaWS\Entrata_Framework\testng.xml
+
+2025-07-04 01:09:58 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - WebDriver initialized for: chrome
+2025-07-04 01:10:18 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Navigated to application URL: https://www.entrata.com/
+2025-07-04 01:10:22 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Clicked on 'Watch Demo' button.
+2025-07-04 01:10:22 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entering user details...
+2025-07-04 01:10:23 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered first name...
+2025-07-04 01:10:23 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered last name...
+2025-07-04 01:10:23 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered email...
+2025-07-04 01:10:23 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered company name...
+2025-07-04 01:10:23 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered phone number...
+2025-07-04 01:10:23 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Selected total managed units...
+2025-07-04 01:10:23 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered job title...
+2025-07-04 01:10:23 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Selected user type...
+2025-07-04 01:10:24 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - WebDriver quit and removed from ThreadLocal.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\AppData\Local\Temp\testng-eclipse-836706137\testng-customsuite.xml
+
+2025-07-04 01:17:02 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-07-04 01:17:03 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2c282004: 103 ms
+2025-07-04 01:17:03 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@11ee02f8: 29 ms
+2025-07-04 01:17:03 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2e6ee0bc: 15 ms
+2025-07-04 01:17:03 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@65ef722a: 14 ms
+2025-07-04 01:17:03 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6548bb7d: 12 ms
+2025-07-04 01:17:03 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@e27ba81: 0 ms
+2025-07-04 01:17:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Users\rahul\Downloads\EclipseJavaWS\Entrata_Framework\testng.xml
+
+2025-07-04 01:17:24 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - WebDriver initialized for: chrome
+2025-07-04 01:17:41 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Navigated to application URL: https://www.entrata.com/
+2025-07-04 01:17:44 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Clicked on 'Watch Demo' button.
+2025-07-04 01:17:44 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entering user details...
+2025-07-04 01:17:44 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered first name...
+2025-07-04 01:17:44 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered last name...
+2025-07-04 01:17:44 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered email...
+2025-07-04 01:17:45 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered company name...
+2025-07-04 01:17:45 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered phone number...
+2025-07-04 01:17:45 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Selected total managed units...
+2025-07-04 01:17:45 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered job title...
+2025-07-04 01:17:45 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Selected user type...
+2025-07-04 01:17:46 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - WebDriver quit and removed from ThreadLocal.
+2025-07-04 01:24:21 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Users\rahul\Downloads\EclipseJavaWS\Entrata_Framework\testng.xml
+
+2025-07-04 01:24:23 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - WebDriver initialized for: chrome
+2025-07-04 01:24:36 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Navigated to application URL: https://www.entrata.com/
+2025-07-04 01:24:47 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Clicked on 'Watch Demo' button.
+2025-07-04 01:24:47 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entering user details...
+2025-07-04 01:24:48 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered first name...
+2025-07-04 01:24:48 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered last name...
+2025-07-04 01:24:48 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered email...
+2025-07-04 01:24:48 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered company name...
+2025-07-04 01:24:48 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered phone number...
+2025-07-04 01:24:48 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Selected total managed units...
+2025-07-04 01:24:48 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered job title...
+2025-07-04 01:24:48 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Selected user type...
+2025-07-04 01:24:49 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - WebDriver quit and removed from ThreadLocal.
+2025-07-04 11:58:26 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Users\rahul\Downloads\EclipseJavaWS\Entrata_Framework\testng.xml
+
+2025-07-04 11:58:33 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - WebDriver initialized for: chrome
+2025-07-04 11:58:42 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Navigated to application URL: https://www.entrata.com/
+2025-07-04 11:58:49 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Clicked on 'Watch Demo' button.
+2025-07-04 11:58:49 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entering user details...
+2025-07-04 11:58:49 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered first name...
+2025-07-04 11:58:49 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered last name...
+2025-07-04 11:58:50 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered email...
+2025-07-04 11:58:50 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered company name...
+2025-07-04 11:58:50 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered phone number...
+2025-07-04 11:58:51 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Selected total managed units...
+2025-07-04 11:58:51 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered job title...
+2025-07-04 11:58:51 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Selected user type...
+2025-07-04 11:58:52 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - WebDriver quit and removed from ThreadLocal.
+2025-07-04 13:38:40 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Users\rahul\Downloads\EclipseJavaWS\Entrata_Framework\testng.xml
+
+2025-07-04 13:38:46 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - WebDriver initialized for: chrome
+2025-07-04 13:39:06 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - Navigated to application URL: https://www.entrata.com/
+2025-07-04 13:39:07 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - Navigated to products section
+2025-07-04 13:39:13 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - Clicked on bill pay section
+2025-07-04 13:39:13 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - verifying the presence of Bill pay page
+2025-07-04 13:39:13 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - Bill pay page is launched and test case passed
+2025-07-04 13:39:14 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - WebDriver quit and removed from ThreadLocal.
+2025-07-04 14:41:28 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Users\rahul\Downloads\EclipseJavaWS\Entrata_Framework\testng.xml
+
+2025-07-04 14:41:31 [main] INFO  testCases.TC04_Validate_FooterSection_BrokenLinks - WebDriver initialized for: chrome
+2025-07-04 14:42:05 [main] INFO  testCases.TC04_Validate_FooterSection_BrokenLinks - Navigated to application URL: https://www.entrata.com/
+2025-07-04 14:42:21 [main] INFO  testCases.TC04_Validate_FooterSection_BrokenLinks - WebDriver quit and removed from ThreadLocal.
+2025-07-04 15:15:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Users\rahul\Downloads\EclipseJavaWS\Entrata_Framework\testng.xml
+
+2025-07-04 15:15:54 [main] INFO  testCases.TC01_HomePage_Load_Test - WebDriver initialized for: chrome
+2025-07-04 15:16:09 [main] INFO  testCases.TC01_HomePage_Load_Test - Navigated to application URL: https://www.entrata.com/
+2025-07-04 15:16:10 [main] INFO  testCases.TC01_HomePage_Load_Test - Verifying if the homepage is displayed
+2025-07-04 15:16:10 [main] INFO  testCases.TC01_HomePage_Load_Test - WebDriver quit and removed from ThreadLocal.
+2025-07-04 15:16:13 [main] INFO  testCases.TC04_Validate_FooterSection_BrokenLinks - WebDriver initialized for: chrome
+2025-07-04 15:16:38 [main] INFO  testCases.TC04_Validate_FooterSection_BrokenLinks - Navigated to application URL: https://www.entrata.com/
+2025-07-04 15:16:48 [main] INFO  testCases.TC04_Validate_FooterSection_BrokenLinks - Status code of links captured
+2025-07-04 15:16:48 [main] INFO  testCases.TC04_Validate_FooterSection_BrokenLinks - No presence of broken links and test passed
+2025-07-04 15:16:48 [main] INFO  testCases.TC04_Validate_FooterSection_BrokenLinks - WebDriver quit and removed from ThreadLocal.
+2025-07-04 15:16:50 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - WebDriver initialized for: chrome
+2025-07-04 15:17:04 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Navigated to application URL: https://www.entrata.com/
+2025-07-04 15:17:08 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Clicked on 'Watch Demo' button.
+2025-07-04 15:17:08 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entering user details...
+2025-07-04 15:17:08 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered first name...
+2025-07-04 15:17:09 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered last name...
+2025-07-04 15:17:09 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered email...
+2025-07-04 15:17:09 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered company name...
+2025-07-04 15:17:09 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered phone number...
+2025-07-04 15:17:09 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Selected total managed units...
+2025-07-04 15:17:09 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered job title...
+2025-07-04 15:17:09 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Selected user type...
+2025-07-04 15:17:09 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Verifying the text fields value and demo button presence
+2025-07-04 15:17:09 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - text fields and demo button validation is successful
+2025-07-04 15:17:10 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - WebDriver quit and removed from ThreadLocal.
+2025-07-04 15:17:11 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - WebDriver initialized for: chrome
+2025-07-04 15:17:36 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - Navigated to application URL: https://www.entrata.com/
+2025-07-04 15:17:37 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - Navigated to products section
+2025-07-04 15:17:40 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - Clicked on bill pay section
+2025-07-04 15:17:40 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - verifying the presence of Bill pay page
+2025-07-04 15:17:40 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - Bill pay page is launched and test case passed
+2025-07-04 15:17:41 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - WebDriver quit and removed from ThreadLocal.
+2025-07-04 16:18:41 [main] INFO  testCases.TC01_HomePage_Load_Test - WebDriver initialized for: chrome
+2025-07-04 16:19:07 [main] INFO  testCases.TC01_HomePage_Load_Test - Navigated to application URL: https://www.entrata.com/
+2025-07-04 16:19:07 [main] INFO  testCases.TC01_HomePage_Load_Test - Verifying if the homepage is displayed
+2025-07-04 16:19:08 [main] INFO  testCases.TC01_HomePage_Load_Test - WebDriver quit and removed from ThreadLocal.
+2025-07-04 16:19:10 [main] INFO  testCases.TC04_Validate_FooterSection_BrokenLinks - WebDriver initialized for: chrome
+2025-07-04 16:19:31 [main] INFO  testCases.TC04_Validate_FooterSection_BrokenLinks - Navigated to application URL: https://www.entrata.com/
+2025-07-04 16:19:44 [main] INFO  testCases.TC04_Validate_FooterSection_BrokenLinks - Status code of links captured
+2025-07-04 16:19:44 [main] INFO  testCases.TC04_Validate_FooterSection_BrokenLinks - No presence of broken links and test passed
+2025-07-04 16:19:45 [main] INFO  testCases.TC04_Validate_FooterSection_BrokenLinks - WebDriver quit and removed from ThreadLocal.
+2025-07-04 16:19:47 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - WebDriver initialized for: chrome
+2025-07-04 16:19:47 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Navigated to application URL: https://www.entrata.com/
+2025-07-04 16:20:18 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Clicked on 'Watch Demo' button.
+2025-07-04 16:20:18 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entering user details...
+2025-07-04 16:20:18 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered first name...
+2025-07-04 16:20:19 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered last name...
+2025-07-04 16:20:19 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered email...
+2025-07-04 16:20:19 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered company name...
+2025-07-04 16:20:19 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered phone number...
+2025-07-04 16:20:20 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Selected total managed units...
+2025-07-04 16:20:20 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Entered job title...
+2025-07-04 16:20:20 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Selected user type...
+2025-07-04 16:20:20 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - Verifying the text fields value and demo button presence
+2025-07-04 16:20:20 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - text fields and demo button validation is successful
+2025-07-04 16:20:21 [main] INFO  testCases.TC02_Schedule_Demo_Form_Test - WebDriver quit and removed from ThreadLocal.
+2025-07-04 16:20:23 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - WebDriver initialized for: chrome
+2025-07-04 16:20:46 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - Navigated to application URL: https://www.entrata.com/
+2025-07-04 16:20:46 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - Navigated to products section
+2025-07-04 16:21:11 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - Clicked on bill pay section
+2025-07-04 16:21:11 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - verifying the presence of Bill pay page
+2025-07-04 16:21:11 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - Bill pay page is launched and test case passed
+2025-07-04 16:21:11 [main] INFO  testCases.TC03_Navigate_To_BillPay_Section - WebDriver quit and removed from ThreadLocal.
