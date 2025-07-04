@@ -5,3 +5,22 @@ It includes features like test failure screenshots, listener integration, Maven 
 1. git clone https://github.com/naveenanimation20/PageObjectModel
 2. cd Entrata_Framework
 3. mvn clean test
+
+####Sample test case####
+@Test
+public void verifyHomePageTitle() {
+    String actualTitle = driver.getTitle();
+    Assert.assertEquals(actualTitle, "Expected Title");
+}
+
+####Screenshot on Test Failure####
+This framework includes a Listener that captures screenshots automatically on test failures.
+/screenshots/testName_timestamp.png
+
+####Features####
+Page Object Model (POM)
+Screenshot capture on test failure
+TestNG listeners
+Maven support
+Modular, clean test structure
+Easy to maintain and extend
